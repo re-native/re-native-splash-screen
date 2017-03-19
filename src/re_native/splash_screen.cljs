@@ -7,3 +7,5 @@
 
 (assert react-native-splash-screen)
 (assert hideSplashScreen)
+
+(defn hide-splash-screen [] (hideSplashScreen))
